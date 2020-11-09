@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, I am Abdul Rafique
 #### Web and Mobile App Developer
 
