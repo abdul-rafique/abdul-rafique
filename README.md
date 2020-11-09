@@ -8,6 +8,8 @@ I am Abdul Rafique from Pakistan. I am a Web and Mobile App Developer. I code an
 * 📱 React Native
 * ⏩ NextJS
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdul_rafique)](https://github.com/anuraghazra/github-readme-stats)
