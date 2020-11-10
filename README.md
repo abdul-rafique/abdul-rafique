@@ -1,4 +1,5 @@
-# Abdul Rafique
+# Hi I'm Abdul Rafique <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+
 I am Abdul Rafique from Pakistan. I am a Web and Mobile App Developer. I code and try to learn daily something new.
 
 ## Skills and Experience
