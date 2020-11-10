@@ -1,6 +1,6 @@
 # Hi I'm Abdul Rafique <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I am Abdul Rafique from Pakistan. I am a Web and Mobile App Developer. I code and try to learn daily something new.
+I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code and try to learn daily something new.
 
 ## Skills and Experience
 [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-f8f9fa?style=for-the-badge&labelColor=black&logo=next.js)](#)
@@ -27,8 +27,9 @@ I am Abdul Rafique from Pakistan. I am a Web and Mobile App Developer. I code an
 <br />
 <br />
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true)
+### Github Stats
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafique&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdul_rafique)](https://github.com/anuraghazra/github-readme-stats)
+### Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
