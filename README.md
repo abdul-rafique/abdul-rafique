@@ -33,8 +33,6 @@ I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code a
 ### Coding Stats
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 47 mins    ██████████████████████▓░░   90.22 % 
-JSON         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 % 
-Other        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+JavaScript   15 mins         █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
