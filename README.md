@@ -2,6 +2,10 @@
 
 I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code and try to learn daily something new.
 
+<a href="https://app.daily.dev/abdul_rafique">
+    <img align="right" src="https://api.daily.dev/devcards/b378ff725cb647318568fb68473180ff.png?r=iu8" width="400" alt="Abdul Rafique's Dev Card"/>
+</a>
+  
 ## Skills and Experience
 [![Nextjs Badge](https://img.shields.io/badge/-Nextjs-f8f9fa?style=for-the-badge&labelColor=black&logo=next.js)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![PHP Badge](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&labelColor=black&logo=php&logoColor=8993be)](#)
