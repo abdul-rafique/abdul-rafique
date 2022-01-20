@@ -3,7 +3,7 @@
 I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code and try to learn daily something new.
 
 <a href="https://app.daily.dev/abdul_rafique">
-    <img align="right" src="https://api.daily.dev/devcards/b378ff725cb647318568fb68473180ff.png?r=iu8" width="400" alt="Abdul Rafique's Dev Card"/>
+    <img align="right" src="https://api.daily.dev/devcards/b378ff725cb647318568fb68473180ff.png?r=iu8" width="300" alt="Abdul Rafique's Dev Card"/>
 </a>
   
 ## Skills and Experience
