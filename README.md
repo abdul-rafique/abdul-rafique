@@ -38,11 +38,11 @@ I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code a
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js            2 hrs 7 mins    ██████████████████░░░░░░░   72.23 %
-Groovy            24 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Java Properties   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.09 %
-JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+Vue.js            2 hrs 26 mins   ███████████████████░░░░░░   75.76 %
+Groovy            24 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
+Java Properties   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.16 %
+JSON              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+TypeScript        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
 ```
 
 <!--END_SECTION:waka-->
