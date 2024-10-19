@@ -38,8 +38,7 @@ I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code a
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    1 hr 15 mins    ████████████████████████▒   96.83 %
-Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
+Other   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
