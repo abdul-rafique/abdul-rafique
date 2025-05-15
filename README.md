@@ -40,8 +40,8 @@ I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code a
 ```txt
 TypeScript   9 hrs 28 mins   ██████████████████▓░░░░░░   74.87 %
 JSON         2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.68 %
-Groovy       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
-JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Groovy       32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 %
+JavaScript   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
 
