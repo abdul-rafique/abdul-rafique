@@ -38,11 +38,11 @@ I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code a
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   11 hrs 44 mins  ███████████▓░░░░░░░░░░░░░   46.65 %
-C#           5 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   20.38 %
-SQL          4 hrs 53 mins   █████░░░░░░░░░░░░░░░░░░░░   19.44 %
-JSON         1 hr 10 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
-Python       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
+TypeScript   12 hrs 5 mins   █████████████░░░░░░░░░░░░   51.62 %
+SQL          4 hrs 43 mins   █████░░░░░░░░░░░░░░░░░░░░   20.15 %
+C#           3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.07 %
+JSON         1 hr 8 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   04.88 %
+Python       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
