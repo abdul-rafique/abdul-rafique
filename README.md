@@ -1,42 +1,66 @@
-# Hi I'm Abdul Rafique <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+# Hi, My name is Abdul Rafique 👋
 
-I am Abdul Rafique from Pakistan . I am a Web and Mobile App Developer. I code and try to learn daily something new.
+I am a **Full Stack Developer** from **Pakistan**, passionate about building scalable, user-friendly applications. I believe in continuous learning and aim to code — and grow — a little every day.
 
 <a href="https://app.daily.dev/abdul_rafique">
-    <img align="right" src="https://api.daily.dev/devcards/b378ff725cb647318568fb68473180ff.png?r=iu8" width="300" alt="Abdul Rafique's Dev Card"/>
+  <img align="right" src="https://api.daily.dev/devcards/b378ff725cb647318568fb68473180ff.png?r=iu8" width="300" alt="Abdul Rafique's Dev Card" />
 </a>
-  
-## Skills and Experience
-[![Nextjs Badge](https://img.shields.io/badge/-Nextjs-f8f9fa?style=for-the-badge&labelColor=444&logo=next.js)](#)
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=444&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=444&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=444&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=444&logo=node.js&logoColor=3C873A)](#) [![PHP Badge](https://img.shields.io/badge/-PHP-8993be?style=for-the-badge&labelColor=444&logo=php&logoColor=8993be)](#)
 
-## Others
-<img  align="left" alt="HTML5" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+---
 
-<img align="left" alt="CSS3" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+## 🌐 Connect With Me
 
-<img align="left" alt="SASS" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+[![Portfolio](https://img.shields.io/badge/-Portfolio-1abc9c?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdul-rafique.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abdul-rafique)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact2rafique@gmail.com)
 
-<img align="left" alt="Bootstrap" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+---
 
-<img align="left" alt="Tailwind CSS" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png">
+## 💼 Skills & Expertise
 
-<img align="left" alt="Firebase" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+### Languages & Frameworks
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
+[![DotNet](https://img.shields.io/badge/-DotNet-512bd4?style=for-the-badge&logo=dotnet&logoColor=white)](https://www.php.net)
 
-<img align="left" alt="MongoDB" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+### Tools & Technologies
+<div align="center">
+    <img alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" align="left" style="margin-right: 10px" />
+    <img alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="50" align="left" style="margin-right: 10px" />
+    <img alt="Bootstrap" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" align="left" style="margin-right: 10px" />
+    <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" width="50" align="left" style="margin-right: 10px" />
+    <img alt="Firebase" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" width="50" align="left" style="margin-right: 10px" />
+    <img alt="MongoDB" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50" align="left" style="margin-right: 10px" />
+    <img alt="SQL Server" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="50" align="left" style="margin-right: 10px" />
+    <img alt="PostgreSQL" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" width="50" align="left" style="margin-right: 10px" />
+    <img alt="Git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="50" />
+</div>
 
-<img align="left" alt="Git" width="26px" style="margin-right: 10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+---
 
+## 🤝 Open To
 
-<br />
-<br />
+- 🚀 Freelance Development Opportunities  
+- 🤝 Open-Source Collaboration  
+- 💼 Full-Time Roles in Web Development  
+- 🎓 Internship & Mentorship Exchanges  
 
-### Github Stats
-![Abdul Rafique's github stats](https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true&theme=tokyonight)
+---
 
-### Coding Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true&theme=tokyonight&border_radius=10&height=200" height="200" width="48%" style="vertical-align: top; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafique&layout=compact&theme=tokyonight&border_radius=10&height=200" height="200" width="48%" style="vertical-align: top; object-fit: cover;" />
+</div>
+
+---
+
+## ⌨️ Weekly Coding Activity
+
 <!--START_SECTION:waka-->
-
 ```txt
 TypeScript   14 hrs 14 mins  █████████████▒░░░░░░░░░░░   53.66 %
 C#           5 hrs 19 mins   █████░░░░░░░░░░░░░░░░░░░░   20.05 %
@@ -44,5 +68,6 @@ SQL          4 hrs 34 mins   ████▒░░░░░░░░░░░░
 JSON         1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
 Python       41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
 ```
-
 <!--END_SECTION:waka-->
+
+Let’s connect and build something great together! 🚀
