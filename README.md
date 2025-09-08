@@ -50,8 +50,8 @@ I am a **Full Stack Developer** from **Pakistan**, passionate about building sca
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true&theme=tokyonight&border_radius=10&height=200" height="200" width="48%" style="vertical-align: top; object-fit: cover;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafique&layout=compact&theme=tokyonight&border_radius=10&height=200" height="200" width="48%" style="vertical-align: top; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-rafique&show_icons=true&theme=tokyonight&border_radius=10&height=200&cache_bust=2" height="200" width="48%" style="vertical-align: top; object-fit: cover;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-rafique&layout=compact&theme=tokyonight&border_radius=10&height=200&cache_bust=2" height="200" width="48%" style="vertical-align: top; object-fit: cover;" />
 </div>
 
 ---
