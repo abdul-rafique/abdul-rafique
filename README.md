@@ -61,11 +61,11 @@ I am a **Full Stack Developer** from **Pakistan**, passionate about building sca
 <!--START_SECTION:waka-->
 
 ```txt
-C#                                 4 hrs 1 min     ████████▒░░░░░░░░░░░░░░░░   33.74 %
-TypeScript                         3 hrs 50 mins   ████████░░░░░░░░░░░░░░░░░   32.20 %
-JSON                               1 hr 36 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.49 %
-YAML                               1 hr 25 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.95 %
-SQL                                19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+TypeScript                         3 hrs 50 mins   ██████████░░░░░░░░░░░░░░░   40.35 %
+C#                                 1 hr 40 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+JSON                               1 hr 33 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.27 %
+YAML                               1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+SQL                                19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
