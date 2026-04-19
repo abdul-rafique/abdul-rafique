@@ -61,7 +61,9 @@ I am a **Full Stack Developer** from **Pakistan**, passionate about building sca
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      12 mins               ██████████████▓░░░░░░░░░░   58.82 %
+Markdown   4 mins                █████▓░░░░░░░░░░░░░░░░░░░   22.96 %
+SQL        3 mins                ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
 ```
 
 <!--END_SECTION:waka-->
